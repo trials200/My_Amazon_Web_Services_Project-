@@ -1,0 +1,21 @@
+AWS Budget lets you set custom cost and usage budgets that alerts you when your budget thresholds are exceeded or forcasted to exceed.
+you can also create budget to track your aggregate reservations and savings plans utilization and coverage metrics.  
+            
+                                     
+                                     
+                                     HOW TO CREATE AWS budget
+                     1.Sign in to AWS management console 
+                     2.click on the search button and search for AWS COST EXPLORER
+                     3.In the navigation pane, choose budgets
+                     4.At the top right of the page, click on create budget
+                     5. for choose budget type,choose cost budget and choose next
+                     6.under set budget amount, for period, choose how often you want the budget to reset the actual and forecasted spend. select daily for everyday, 
+                       monthly for every month, quarterly for every three months, or annually for every year.
+                     7.For budget effective date, choose recurring budget that resets after the budget period, or choose expiring budget for a one time budget that doesnt 
+                       reset afterb the budget period.
+                     8.Choose the start date or period to begin tracking against your budgeted amount. for an expiring budget, choose the end date or period for the budget 
+                       to end on.
+                     9.For budgeting method, select the way that you want your budget amount to be determined each budget period, either FIXED. PLANNED OR AUTO-ADJUSTING.
+                     10.TO apply one or more of the filters listed under budget scoping-optional, click Add filter. The collection of filters that are shown on the 
+                        the console depends on the budget you select.
+                      
